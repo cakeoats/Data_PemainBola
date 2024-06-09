@@ -79,7 +79,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <a class="navbar-brand" href="index.php"><img src="images/fifa.jpg" style="width:50px" alt="Logo"></a>
+      <a class="navbar-brand" href="index.php"><img src="images/FIBA.png" style="width:50px" alt="Logo"></a>
       <a class="navbar-brand" href="#">Data Pemain</a>
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 
