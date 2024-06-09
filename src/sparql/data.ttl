@@ -7,7 +7,7 @@ id:P001
     item:nama "Michael Jordan";
     item:tinggi "195cm";
     item:berat "81kg";
-    item:tanggal_lahir "Februaru, 17, 1963";
+    item:tanggal_lahir "Februari, 17, 1963";
     item:negara "Amerika";
     item:klub "Chicago Bulls".
 

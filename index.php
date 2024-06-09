@@ -97,7 +97,7 @@
       <thead class="table-dark">
         <tr>
           <th>No.</th>
-          <th>Nama Pemain Bola</th>
+          <th>Nama Pemain Basket</th>
           <th>Tinggi Pemain</th>
           <th>Berat Pemain</th>
           <th>Tanggal Lahir </th>
