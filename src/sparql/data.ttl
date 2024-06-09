@@ -4,108 +4,108 @@
 
 #Users
 id:P001
-    item:nama "Robert Lewandowski";
-    item:tinggi "185cm";
+    item:nama "Michael Jordan";
+    item:tinggi "195cm";
     item:berat "81kg";
-    item:tanggal_lahir "Agustus, 21, 1988";
-    item:negara "Polandia";
-    item:klub "Bayern Munchen".
+    item:tanggal_lahir "Februaru, 17, 1963";
+    item:negara "Amerika";
+    item:klub "Chicago Bulls".
 
 id:P002
-    item:nama "Kylian Mbappé";
-    item:tinggi "182cm";
-    item:berat "73kg";
-    item:tanggal_lahir "Desember, 20, 1998";
-    item:negara "Prancis";
-    item:klub "Paris Saint German".
+    item:nama "Payton Pritchard";
+    item:tinggi "185cm";
+    item:berat "88kg";
+    item:tanggal_lahir "January, 28, 1998";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P003
-    item:nama "Kevin De Bruyne";
-    item:tinggi "181cm";
-    item:berat "70kg";
-    item:tanggal_lahir "Juni, 28, 1991";
-    item:negara "Belgia";
-    item:klub "Manchester City".
+    item:nama "Sam Hauser";
+    item:tinggi "203cm";
+    item:berat "97kg";
+    item:tanggal_lahir "Desember, 8, 1997";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P004
-    item:nama "Cristiano Ronaldo";
-    item:tinggi "187cm";
-    item:berat "83kg";
-    item:tanggal_lahir "Febuari, 5, 1985";
-    item:negara "Portugal";
-    item:klub "Manchester United".
+    item:nama "Jayson Tatum";
+    item:tinggi "203cm";
+    item:berat "95kg";
+    item:tanggal_lahir "Maret, 3, 1998";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P005
-    item:nama "Neymar Junior";
-    item:tinggi "175cm";
-    item:berat "68kg";
-    item:tanggal_lahir "Febuari, 5, 1992";
-    item:negara "Brasil";
-    item:klub "Paris Saint German".
+    item:nama "Derrick White";
+    item:tinggi "193cm";
+    item:berat "86kg";
+    item:tanggal_lahir "July, 2, 1994";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P006
-    item:nama "Alisson";
-    item:tinggi "191cm";
-    item:berat "91kg";
+    item:nama "Al Horford";
+    item:tinggi "206cm";
+    item:berat "108kg";
     item:tanggal_lahir "Oktober 2, 1992";
-    item:negara "Brazil";
-    item:klub "Liverpool".
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P007
-    item:nama "Joshua Kimmich";
-    item:tinggi "177cm";
-    item:berat "75kg";
-    item:tanggal_lahir "Febuari, 8, 1995";
-    item:negara "Jerman";
-    item:klub "Bayern Munchen".
+    item:nama "Luke Kornet";
+    item:tinggi "218cm";
+    item:berat "113kg";
+    item:tanggal_lahir "Juli, 15, 1995";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P008
-    item:nama "Ederson";
-    item:tinggi "188cm";
-    item:berat "86kg";
-    item:tanggal_lahir "Agustus,. 17, 1993";
-    item:negara "Brasil";
-    item:klub "Manchester City".
+    item:nama "Xavier Tillman Sr.";
+    item:tinggi "203cm";
+    item:berat "111kg";
+    item:tanggal_lahir "Januari, 12, 1999";
+    item:negara "Amerika";
+    item:klub "Boston Celtics".
 
 id:P009
-    item:nama "Sadio Mané";
-    item:tinggi "175cm";
-    item:berat "69kg";
-    item:tanggal_lahir "April, 10, 1992";
-    item:negara "Senegal";
-    item:klub "Liverpool".
+    item:nama "Precious Achiuwa";
+    item:tinggi "203cm";
+    item:berat "110kg";
+    item:tanggal_lahir "September, 19, 1999";
+    item:negara "Nigeria";
+    item:klub "New York Knicks".
 
 id:P010
-    item:nama "Harry Kane";
-    item:tinggi "188cm";
-    item:berat "89kg";
-    item:tanggal_lahir "Juli, 28, 1993";
-    item:negara "Inggris";
-    item:klub "Tottenham Hotspur".
+    item:nama "Steven Adams";
+    item:tinggi "211cm";
+    item:berat "120kg";
+    item:tanggal_lahir "Juli, 20, 1993";
+    item:negara "New Zealand";
+    item:klub "Houston Rocket".
 
 id:P011
-    item:nama "Jan Oblak";
-    item:tinggi "188cm";
-    item:berat "87kg";
-    item:tanggal_lahir "Januari, 7, 1993";
-    item:negara "Slovenia";
-    item:klub "Atletico M.drid".
+    item:nama "Bam Adebayo";
+    item:tinggi "206cm";
+    item:berat "116kg";
+    item:tanggal_lahir "Juli, 18, 1997";
+    item:negara "Amerika";
+    item:klub "Miami Heart".
 
 id:P012
-    item:nama "Casemiro";
-    item:tinggi "185cm";
-    item:berat "84kg";
-    item:tanggal_lahir "Febuari, 23, 1992";
-    item:negara "Brazil";
-    item:klub "Real M.drid".
+    item:nama "Giannis Antetokounmpo";
+    item:tinggi "211cm";
+    item:berat "110kg";
+    item:tanggal_lahir "Desember, 6, 1994";
+    item:negara "Greece";
+    item:klub "Milwaukee Bucks".
 
 id:P013
-    item:nama "Thibaut Courtois";
-    item:tinggi "199cm";
-    item:berat "96kg";
-    item:tanggal_lahir "Mei 11, 1992";
-    item:negara "Belgia";
-    item:klub "Real M.drid".
+    item:nama "Kyle Anderson";
+    item:tinggi "206cm";
+    item:berat "104kg";
+    item:tanggal_lahir "September, 20, 1993";
+    item:negara "Amerika";
+    item:klub "Minnesota Timberwolves".
 
 id:P014
     item:nama "Rúben Dias";
@@ -116,49 +116,49 @@ id:P014
     item:klub "Manchester City".
 
 id:P015
-    item:nama "Erling Haaland";
-    item:tinggi "194cm";
-    item:berat "94kg";
-    item:tanggal_lahir "July, 21, 2000";
-    item:negara "Norwegia";
-    item:klub "Manchester City".
+    item:nama "Jose Alvarado";
+    item:tinggi "183cm";
+    item:berat "81kg";
+    item:tanggal_lahir "April, 12, 1998";
+    item:negara "Amerika";
+    item:klub "New Orleans Pelicans".
 
 id:P016
-    item:nama "Gianluigi Donnarumma";
-    item:tinggi "196cm";
-    item:berat "90kg";
-    item:tanggal_lahir "Febuari, 25, 1999";
-    item:negara "Itali";
-    item:klub "Paris Saint German".
+    item:nama "ibou Badji";
+    item:tinggi "213cm";
+    item:berat "109kg";
+    item:tanggal_lahir "Oktober, 13, 2002";
+    item:negara "Senegal";
+    item:klub "Portland Trail Blazers".
 
 id:P017
-    item:nama "João Cancelo";
-    item:tinggi "182cm";
-    item:berat "74kg";
-    item:tanggal_lahir "Mei, 27, 1994";
-    item:negara "Portugal";
-    item:klub "Manchester City".
+    item:nama "Udoka Azubuike";
+    item:tinggi "211cm";
+    item:berat "122kg";
+    item:tanggal_lahir "September, 17, 1999";
+    item:negara "Nigeria";
+    item:klub "Phoenix Suns".
 
 id:P018
-    item:nama "Frenkie De Jong";
-    item:tinggi "180cm";
-    item:berat "74kg";
-    item:tanggal_lahir "Mei, 12, 1997";
-    item:negara "Belanda";
-    item:klub "Barcelona".
+    item:nama "Deandre Ayton";
+    item:tinggi "213cm";
+    item:berat "112kg";
+    item:tanggal_lahir "Juli, 23, 1998";
+    item:negara "Bahamas";
+    item:klub "Portland Trail Blazers".
 
 id:P019
-    item:nama "Bruno Fernandes";
-    item:tinggi "179cm";
-    item:berat "69kg";
-    item:tanggal_lahir "September, 8, 1994";
-    item:negara "Portugal";
-    item:klub "Manchester United".
+    item:nama "Og Anunoby";
+    item:tinggi "201cm";
+    item:berat "109kg";
+    item:tanggal_lahir "Juli, 17, 1997";
+    item:negara "Inggris";
+    item:klub "New York Knicks".
 
 id:P020
-    item:nama "Christopher Nkunku";
-    item:tinggi "175cm";
-    item:berat "73kg";
-    item:tanggal_lahir "November, 14, 1997";
-    item:negara "Prancis";
-    item:klub "RB Leipzig".
+    item:nama "Cole Anthony";
+    item:tinggi "188cm";
+    item:berat "84kg";
+    item:tanggal_lahir "Mei, 15, 2000";
+    item:negara "Amerika";
+    item:klub "Orlando Magic".
